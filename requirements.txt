@@ -1,2 +1,4 @@
 joblib
 plotly
+xgboost
+scikit-learn
