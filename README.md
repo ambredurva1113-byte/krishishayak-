@@ -1,4 +1,3 @@
----
 
 # 🌾 KrishiSahayak — Agricultural Risk Prediction System
 **Crop Distress Early-Warning System for Maharashtra Districts**
